@@ -42,7 +42,7 @@ My goal is to become a professional SOC Analyst capable of detecting, analyzing,
 
 ## SOC Project Portfolio
 
-I document my hands-on SOC labs and detection engineering projects here:
+I document my hands-on SOC labs here:
 
  https://github.com/olatunjiabel231-coder/sc200-soc-portfolio
 
