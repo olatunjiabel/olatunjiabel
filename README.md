@@ -55,7 +55,7 @@ Projects include:
 - LOLBins Process Detection — Completed
 - Certutil LOLBIN Investigation — Completed
 - Sentinel SOAR Brute-Force automation — Completed
-- Email Phishing Detection and Investigation using Microsoft Defender for Office 365
+- Email Phishing Detection and Investigation using Microsoft Defender for Office 365 — Completed
 
 ---
 
