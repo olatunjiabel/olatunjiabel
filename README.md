@@ -49,9 +49,13 @@ I document my hands-on SOC labs and detection engineering projects here:
 Projects include:
 
 - SOC Environment Setup (Microsoft Sentinel) — Completed  
-- Detection Engineering & Brute Force Login Detection — Completed  
-- Ongoing — Security Incident Investigation — Completed
-- Ongoing — Threat Hunting with KQL  
+- Detection Engineering — Completed  
+- Brute Force Login Detection — Completed
+- RDP Brute Force Detection — Completed
+- LOLBins Process Detection — Completed
+- Certutil LOLBIN Investigation — Completed
+- Sentinel SOAR Brute-Force automation — Completed
+- Email Phishing Detection and Investigation using Microsoft Defender for Office 365
 
 ---
 
@@ -62,7 +66,16 @@ Projects include:
 - Azure Portal  
 - Log Analytics Workspace  
 - KQL  
-- MITRE ATT&CK  
+- MITRE ATT&CK
+- Azure Portal
+- Azure Monitor Agents
+- Azure Arc
+- Window Server
+- Microsoft Defender for Office 365
+- Analytics Rules
+- Automation Rules
+- Microsoft Sentinel Playbooks
+ 
 
 ---
 
@@ -71,13 +84,15 @@ Projects include:
 - Advanced KQL for Threat Hunting  
 - Detection Engineering in Microsoft Sentinel  
 - Real-world Incident Response  
-- Threat Investigation Techniques  
+- Threat Investigation Techniques
+- Microsoft Security Technologies
 
 ---
 
 ## Contact
 
-GitHub: https://github.com/olatunjiabel231-coder  
+LinkedIn: www.linkedin.com/in/olatunji-olubi
+GitHub: https://github.com/olatunjiabel
 
 ---
 
