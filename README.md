@@ -22,7 +22,7 @@ My goal is to become a professional SOC Analyst capable of detecting, analyzing,
 ## Certifications
 
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
-- Microsoft Certified: Security Operations Analyst Associate (SC-200) — In Progress
+- Microsoft Certified: Security Operations Analyst Associate (SC-200) 
 - CompTIA Security+ — In Progress
 
 ---
@@ -56,6 +56,7 @@ Projects include:
 - Certutil LOLBIN Investigation — Completed
 - Sentinel SOAR Brute-Force automation — Completed
 - Email Phishing Detection and Investigation using Microsoft Defender for Office 365 — Completed
+- 
 
 ---
 
