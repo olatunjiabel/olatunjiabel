@@ -56,7 +56,8 @@ Projects include:
 - Certutil LOLBIN Investigation — Completed
 - Sentinel SOAR Brute-Force automation — Completed
 - Email Phishing Detection and Investigation using Microsoft Defender for Office 365 — Completed
-- 
+- Adversary TTP Mapping with MITRE ATT&CK — Completed
+- XDR Multi-Alert correlation — Completed
 
 ---
 
