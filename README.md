@@ -79,7 +79,7 @@ I have built practical security labs and projects around Microsoft security tech
 
 ### SOC Projects
 
-- SOC Environment Setup — Microsoft Sentinel
+- SOC Environment Setup 
 - Detection Engineering
 - Brute Force Login Detection
 - RDP Brute Force Detection
